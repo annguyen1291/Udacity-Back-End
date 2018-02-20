@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    background: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+    font-family: "Lucinda Grande", "Lucinda Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.main-nav {
+    background: #004225;
+    padding: 2rem;
+}
+
+textarea,
+input {
+    display: block;
+    margin: 1rem 0;
+    padding: .5rem;
+}
+
+.nav-menu li {
+    display: inline-block;
+}
+
+.controls {
+    margin: -1rem;
+    padding: 1rem;
+    width: 100%;
+    color: white;
+    background: #1B4D3E;
+}
+
+.controls li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+.controls a {
+    color: white
+}
+
+.main-nav {
+    text-align: center;
+}
+
+.post {
+    padding: 1rem;
+    margin: 3rem 0;
+}
+
+.post .post-title a {
+    font-size: 2rem;
+    text-transform: capitalize;
+    margin: 1rem 0;
+    display: block;
+    font-weight: 100;
+    text-decoration: none;
+    color: #333;
+}
+
+.post .post-title a:hover {
+    text-decoration: underline;
+}
+
+.post .post-date {
+    font-weight: 100;
+    color: #999
+}
+
+.comment {
+    background: white;
+    border-bottom: 5px solid rgba(0,0,0,.1);
+    margin: 2rem 0;
+    padding: 1rem;
+}
+
+.main-nav a {
+    color: #fff;
+}
+
+.post .post-content {
+    padding: 1rem 0;
+    font-weight: 200;
+}
+
+.nav-menu {
+    text-align: center;
+    background: #00563B;
+}
+
+.nav-menu a {
+    display: inline-block;
+    color: white;
+    padding: 1rem;
+}
+
+#content {
+    padding: 1rem;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
