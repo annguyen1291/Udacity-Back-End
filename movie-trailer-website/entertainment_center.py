@@ -23,7 +23,7 @@ conjuring2 = media.Movie('Conjuring 2',
                          'https://www.youtube.com/watch?v=KyA9AtUOqRM')
 
 tarzan     = media.Movie('Tarzan',
-                         'Tarzan is given the task of abolishing slavery and \
+                         'Tarzan is given the task of abolishing subordinatery and \
                          save Jane',
                          'http://www.impawards.com/2016/posters/tarzan_ver4.jpg',
                          'https://www.youtube.com/watch?v=5PSNL1qE6VY')
